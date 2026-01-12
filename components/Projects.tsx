@@ -7,7 +7,7 @@ const Projects: React.FC = () => {
     {
       title: "FlowKeys – Typing Platform",
       description: "A modern typing speed platform built using vibe coding principles. Includes typing tests, real-time WPM calculation, accuracy tracking, and a clean responsive UI.",
-      image: "/img/Capture d’écran 2026-01-11 à 22.36.46.png",
+      image: "public/img/Capture d’écran 2026-01-11 à 22.36.46.png",
       tags: ["HTML", "CSS", "JavaScript", "Vibe Coding"],
       github: "#",
       live: "#"
@@ -15,7 +15,7 @@ const Projects: React.FC = () => {
     {
       title: "Football Field Reservation Platform",
       description: "A web platform for reserving football fields online. Users can view available time slots, book reservations, and contact field owners easily.",
-      image: "/img/Capture d’écran 2026-01-11 à 22.42.35.png",
+      image: "public/img/Capture d’écran 2026-01-11 à 22.42.35.png",
       tags: ["PHP", "MySQL", "JavaScript", "CSS"],
       github: "#",
       live: "#"
@@ -23,7 +23,7 @@ const Projects: React.FC = () => {
     {
       title: "Yassine Errahimi – Portfolio",
       description: "My personal portfolio showcasing my skills, projects, and experience as a Full Stack Web Developer. Designed with a modern UI and responsive layout.",
-      image: "/img/Capture d’écran 2026-01-11 à 22.44.08.png",
+      image: "public/img/Capture d’écran 2026-01-11 à 22.44.08.png",
       tags: ["HTML", "CSS", "JavaScript", "Responsive"],
       github: "#",
       live: "#"
