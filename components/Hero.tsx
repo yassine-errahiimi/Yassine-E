@@ -44,9 +44,9 @@ const Hero: React.FC = () => {
             </div>
 
             <div className="flex justify-center md:justify-start gap-6 text-slate-500 dark:text-slate-400">
-              <a href="https://github.com/yassineerrahimi" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors"><Github size={24} /></a>
-              <a href="#" className="hover:text-primary transition-colors"><Linkedin size={24} /></a>
-              <a href="mailto:yassine@example.com" className="hover:text-primary transition-colors"><Mail size={24} /></a>
+              <a href="https://github.com/yassine-errahiimi" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors"><Github size={24} /></a>
+              <a href="https://www.linkedin.com/in/yassine-errahimi-5ba73726a/" className="hover:text-primary transition-colors"><Linkedin size={24} /></a>
+              <a href="mailto:yassinrahimi91@gmail.com" className="hover:text-primary transition-colors"><Mail size={24} /></a>
             </div>
           </div>
 
