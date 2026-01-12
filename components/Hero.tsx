@@ -57,12 +57,12 @@ const Hero: React.FC = () => {
               <div className="absolute -inset-4 bg-gradient-to-tr from-primary/30 to-secondary/30 rounded-[2.5rem] rotate-3 group-hover:rotate-6 transition-transform duration-500"></div>
               <div className="absolute -inset-4 bg-white dark:bg-slate-950 rounded-[2.5rem] border-2 border-slate-100 dark:border-slate-800 overflow-hidden shadow-2xl">
                 <img
-                  src="public/img/IMG_9323.png" 
-                  alt="Yassine Errahimi"
+                  src="/img/me.png" 
+                  alt="me.png"
                   className="w-full h-full object-cover grayscale-[10%] group-hover:grayscale-0 transition-all duration-700 scale-100 group-hover:scale-105"
                   onError={(e) => {
                     const target = e.target as HTMLImageElement;
-                    target.src = "public/img/IMG_9323.png";
+                    target.src = "/img/me.png";
                   }}
                 />
               </div>
