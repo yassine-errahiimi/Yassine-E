@@ -26,7 +26,7 @@ const About: React.FC = () => {
             <div className="grid sm:grid-cols-2 gap-4">
               <div className="p-4 bg-white dark:bg-slate-800 rounded-xl shadow-sm border border-slate-100 dark:border-slate-700">
                 <p className="text-sm text-slate-500 dark:text-slate-400 mb-1">Location</p>
-                <p className="font-semibold flex items-center gap-2"><MapPin size={16} className="text-primary"/> Mirleft, Morocco</p>
+                <p className="font-semibold flex items-center gap-2"><MapPin size={16} className="text-primary"/> Agadir, Morocco</p>
               </div>
               <div className="p-4 bg-white dark:bg-slate-800 rounded-xl shadow-sm border border-slate-100 dark:border-slate-700">
                 <p className="text-sm text-slate-500 dark:text-slate-400 mb-1">Education</p>
