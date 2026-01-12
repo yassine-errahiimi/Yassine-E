@@ -62,7 +62,7 @@ const Hero: React.FC = () => {
                   className="w-full h-full object-cover grayscale-[10%] group-hover:grayscale-0 transition-all duration-700 scale-100 group-hover:scale-105"
                   onError={(e) => {
                     const target = e.target as HTMLImageElement;
-                    target.src = "IMG_9323.png";
+                    target.src = "/img/IMG_9323.png";
                   }}
                 />
               </div>
